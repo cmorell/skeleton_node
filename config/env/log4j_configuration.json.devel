@@ -1,0 +1,26 @@
+{
+  "appenders": [
+    {
+      "type": "clustered",
+      "appenders": [
+        {
+          "type": "dateFile",
+          "filename": "/tmp/node.log",
+          "pattern": "-yyyy-MM-dd",
+          "category": "http"
+        },
+        {
+          "type": "logLevelFilter",
+          "level": "DEBUG",
+          "appender": {
+            "type": "file",
+
+            "filename": "/tmp/node.log",
+            "maxLogSize": 10485760,
+            "numBackups": 3
+          }
+        }
+      ]
+    }
+  ]
+}

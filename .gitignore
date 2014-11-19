@@ -1,0 +1,24 @@
+
+# bower installation
+public/lib/
+.DS_Store
+.nodemonignore
+.sass-cache/
+node_modules/
+test/coverage/
+migrations/
+
+*.local
+.tmp
+.sass-cache
+.project
+
+# Do not include this files directly. Edit the environments file
+# and create your local copy of these
+test/mocha/config.js
+test/karma/karma.conf.js
+test/protractor/config.js
+
+
+# Utilized locally
+npm-debug.log
