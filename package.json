@@ -36,7 +36,7 @@
     "passport-google": "latest",
     "moxie-zip": "0.0.3",
     "q": "1.0.1",
-    "handlebars-paginate": "0.0.1",
+    "handlebars-paginate": "0.1.0",
     "log4js": "0.6.15",
     "sqlite3": "2.2.3",
     "sequelize": "1.7.8",
