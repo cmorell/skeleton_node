@@ -47,7 +47,7 @@
     "grunt-concurrent": "latest",
     "grunt-contrib-jshint": "latest",
     "grunt-contrib-watch": "latest",
-    "grunt-karma": "~0.6.2",
+    "grunt-karma": "~4.0.0",
     "grunt-mocha-test": "latest",
     "grunt-nodemon": "latest",
     "grunt-protractor-runner": "^1.1.4",
