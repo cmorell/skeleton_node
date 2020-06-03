@@ -21,7 +21,7 @@
     "passport": "0.2.0",
     "passport-local": "1.0.0",
     "passport-facebook": "1.0.3",
-    "passport-twitter": "1.0.2",
+    "passport-twitter": "1.0.4",
     "underscore": "latest",
     "async": "latest",
     "view-helpers": "latest",
